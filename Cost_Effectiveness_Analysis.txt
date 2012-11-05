@@ -1,0 +1,9 @@
+Cost Effectiveness Analysis (CEA)
+Sébastien Boisvert
+2012-11-05
+
+The cc2.8xlarge job lasted 54 minutes, 6 seconds. The cost is $2.400.
+
+The m3.xlarge job lasted 0 minutes, 0 seconds. The cost is $0.000.
+
+
