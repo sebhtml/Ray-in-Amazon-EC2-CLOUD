@@ -6,10 +6,12 @@ EC2 pricing: http://aws.amazon.com/ec2/pricing/
 
 EC2 instance types: http://aws.amazon.com/ec2/instance-types/
 
+Tests here were done on on-demand instances.
+Costs are lower for reserved instances.
+
 All these tests can be easily automated with:
 
 	sudo yum install -y ec2-api-tools.noarch
-
 
 Sébastien Boisvert
 
