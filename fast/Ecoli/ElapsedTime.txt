@@ -1,0 +1,202 @@
+
+***
+Step: Network testing
+Date: Mon Nov  5 21:41:13 2012
+Elapsed time: 0 seconds
+Since beginning: 0 seconds
+***
+
+
+***
+Step: Counting sequences to assemble
+Date: Mon Nov  5 21:47:10 2012
+Elapsed time: 5 minutes, 57 seconds
+Since beginning: 5 minutes, 57 seconds
+***
+
+
+***
+Step: Sequence loading
+Date: Mon Nov  5 22:06:50 2012
+Elapsed time: 19 minutes, 40 seconds
+Since beginning: 25 minutes, 37 seconds
+***
+
+
+***
+Step: K-mer counting
+Date: Mon Nov  5 22:08:43 2012
+Elapsed time: 1 minutes, 53 seconds
+Since beginning: 27 minutes, 30 seconds
+***
+
+
+***
+Step: Coverage distribution analysis
+Date: Mon Nov  5 22:08:48 2012
+Elapsed time: 5 seconds
+Since beginning: 27 minutes, 35 seconds
+***
+
+
+***
+Step: Graph construction
+Date: Mon Nov  5 22:10:59 2012
+Elapsed time: 2 minutes, 11 seconds
+Since beginning: 29 minutes, 46 seconds
+***
+
+
+***
+Step: Null edge purging
+Date: Mon Nov  5 22:11:51 2012
+Elapsed time: 52 seconds
+Since beginning: 30 minutes, 38 seconds
+***
+
+
+***
+Step: Selection of optimal read markers
+Date: Mon Nov  5 22:15:21 2012
+Elapsed time: 3 minutes, 30 seconds
+Since beginning: 34 minutes, 8 seconds
+***
+
+
+***
+Step: Detection of assembly seeds
+Date: Mon Nov  5 22:16:49 2012
+Elapsed time: 1 minutes, 28 seconds
+Since beginning: 35 minutes, 36 seconds
+***
+
+
+***
+Step: Estimation of outer distances for paired reads
+Date: Mon Nov  5 22:17:38 2012
+Elapsed time: 49 seconds
+Since beginning: 36 minutes, 25 seconds
+***
+
+
+***
+Step: Bidirectional extension of seeds
+Date: Mon Nov  5 22:27:39 2012
+Elapsed time: 10 minutes, 1 seconds
+Since beginning: 46 minutes, 26 seconds
+***
+
+
+***
+Step: Merging of redundant paths
+Date: Mon Nov  5 22:29:49 2012
+Elapsed time: 2 minutes, 10 seconds
+Since beginning: 48 minutes, 36 seconds
+***
+
+
+***
+Step: Generation of contigs
+Date: Mon Nov  5 22:29:49 2012
+Elapsed time: 0 seconds
+Since beginning: 48 minutes, 36 seconds
+***
+
+
+***
+Step: Scaffolding of contigs
+Date: Mon Nov  5 22:34:46 2012
+Elapsed time: 4 minutes, 57 seconds
+Since beginning: 53 minutes, 33 seconds
+***
+
+
+***
+Step: Counting sequences to search
+Date: Mon Nov  5 22:34:46 2012
+Elapsed time: 0 seconds
+Since beginning: 53 minutes, 33 seconds
+***
+
+
+***
+Step: Graph coloring
+Date: Mon Nov  5 22:34:51 2012
+Elapsed time: 5 seconds
+Since beginning: 53 minutes, 38 seconds
+***
+
+
+***
+Step: Counting contig biological abundances
+Date: Mon Nov  5 22:35:00 2012
+Elapsed time: 9 seconds
+Since beginning: 53 minutes, 47 seconds
+***
+
+
+***
+Step: Counting sequence biological abundances
+Date: Mon Nov  5 22:35:00 2012
+Elapsed time: 0 seconds
+Since beginning: 53 minutes, 47 seconds
+***
+
+
+***
+Step: Loading taxons
+Date: Mon Nov  5 22:35:05 2012
+Elapsed time: 5 seconds
+Since beginning: 53 minutes, 52 seconds
+***
+
+
+***
+Step: Loading tree
+Date: Mon Nov  5 22:35:10 2012
+Elapsed time: 5 seconds
+Since beginning: 53 minutes, 57 seconds
+***
+
+
+***
+Step: Processing gene ontologies
+Date: Mon Nov  5 22:35:19 2012
+Elapsed time: 9 seconds
+Since beginning: 54 minutes, 6 seconds
+***
+
+
+***
+Step: Computing neighbourhoods
+Date: Mon Nov  5 22:35:19 2012
+Elapsed time: 0 seconds
+Since beginning: 54 minutes, 6 seconds
+***
+
+
+Elapsed time for each step, Mon Nov  5 22:35:19 2012
+
+ Network testing: 0 seconds
+ Counting sequences to assemble: 5 minutes, 57 seconds
+ Sequence loading: 19 minutes, 40 seconds
+ K-mer counting: 1 minutes, 53 seconds
+ Coverage distribution analysis: 5 seconds
+ Graph construction: 2 minutes, 11 seconds
+ Null edge purging: 52 seconds
+ Selection of optimal read markers: 3 minutes, 30 seconds
+ Detection of assembly seeds: 1 minutes, 28 seconds
+ Estimation of outer distances for paired reads: 49 seconds
+ Bidirectional extension of seeds: 10 minutes, 1 seconds
+ Merging of redundant paths: 2 minutes, 10 seconds
+ Generation of contigs: 0 seconds
+ Scaffolding of contigs: 4 minutes, 57 seconds
+ Counting sequences to search: 0 seconds
+ Graph coloring: 5 seconds
+ Counting contig biological abundances: 9 seconds
+ Counting sequence biological abundances: 0 seconds
+ Loading taxons: 5 seconds
+ Loading tree: 5 seconds
+ Processing gene ontologies: 9 seconds
+ Computing neighbourhoods: 0 seconds
+ Total: 54 minutes, 6 seconds
