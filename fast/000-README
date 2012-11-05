@@ -1,0 +1,64 @@
+AMI: amzn-ami-hvm-2012.09.0.x86_64-ebs (ami-08249861)
+Cluster Compute Amazon Linux AMI 2012.09
+
+Cluster Compute Eight Extra Large Instance
+Linux/UNIX Usage $2.400 per Hour (US East (N. Virginia))
+
+60.5 GiB of memory
+88 EC2 Compute Units (2 x Intel Xeon E5-2670, eight-core "Sandy Bridge" architecture)
+3370 GB of instance storage
+64-bit platform
+I/O Performance: Very High (10 Gigabit Ethernet)
+EBS-Optimized Available: No*
+API name: cc2.8xlarge
+
+ssh -i GoldThor.pem ec2-user@ec2-174-129-64-88.compute-1.amazonaws.com 
+
+[ec2-user@ip-10-58-149-197 ~]$ uname -a
+Linux ip-10-58-149-197 3.2.30-49.59.amzn1.x86_64 #1 SMP Wed Oct 3 19:54:33 UTC 2012 x86_64 x86_64 x86_64 GNU/Linux
+
+[ec2-user@ip-10-58-149-197 ~]$ head /proc/meminfo 
+MemTotal:       61368280 kB
+MemFree:        59747096 kB
+Buffers:           13360 kB
+Cached:          1362356 kB
+SwapCached:            0 kB
+Active:           231640 kB
+Inactive:        1156932 kB
+Active(anon):      12728 kB
+Inactive(anon):       40 kB
+Active(file):     218912 kB
+
+[ec2-user@ip-10-58-149-197 ~]$ grep "model name" /proc/cpuinfo 
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
+model name	: Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz

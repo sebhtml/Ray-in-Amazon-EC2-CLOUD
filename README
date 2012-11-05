@@ -1,0 +1,15 @@
+Disclaimer: I did these tests on my own, without any financial help from Amazon Web Services LLC
+
+Console: https://console.aws.amazon.com/ec2/home?region=us-east-1#s=Instances
+
+EC2 pricing: http://aws.amazon.com/ec2/pricing/
+
+EC2 instance types: http://aws.amazon.com/ec2/instance-types/
+
+All these tests can be easily automated with:
+
+	sudo yum install -y ec2-api-tools.noarch
+
+
+Sébastien Boisvert
+
