@@ -1,0 +1,31 @@
+Files: 4
+
+FileNumber: 0
+	FilePath: SRR001665_1.fastq.bz2
+ 	NumberOfSequences: 10408224
+	FirstSequence: 0
+	LastSequence: 10408223
+
+FileNumber: 1
+	FilePath: SRR001665_2.fastq.bz2
+ 	NumberOfSequences: 10408224
+	FirstSequence: 10408224
+	LastSequence: 20816447
+
+FileNumber: 2
+	FilePath: SRR001666_1.fastq.bz2
+ 	NumberOfSequences: 7047668
+	FirstSequence: 20816448
+	LastSequence: 27864115
+
+FileNumber: 3
+	FilePath: SRR001666_1.fastq.bz2
+ 	NumberOfSequences: 7047668
+	FirstSequence: 27864116
+	LastSequence: 34911783
+
+
+Summary
+	NumberOfSequences: 34911784
+	FirstSequence: 0
+	LastSequence: 34911783

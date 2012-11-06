@@ -1,0 +1,6 @@
+# average and mode round trip latency in microseconds (10^-6 seconds) when requesting a reply for a message of 4000 bytes
+# MessagePassingInterfaceRank	Name	ModeLatencyInMicroseconds	AverageLatencyInMicroseconds	NumberOfExchanges
+# AverageForAllRanks: 8
+# StandardDeviation: 0
+0	domU-12-31-39-09-FA-52	4	8	1000
+1	domU-12-31-39-09-FA-52	4	8	1000

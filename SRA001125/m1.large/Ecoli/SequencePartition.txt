@@ -1,0 +1,3 @@
+#Rank	FirstSequence	LastSequence	NumberOfSequences
+0	0	17455891	17455892
+1	17455892	34911783	17455892

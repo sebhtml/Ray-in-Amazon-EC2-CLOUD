@@ -17,22 +17,23 @@ Why use Ray?
 5. It scales.
 6. It's "cloud-ready".
 
-
 API name: m1.large
-Running time: 
+2 Rays
+Running time: 05:28:46
 Pricing: 0.260 $ / h
-Cost: 
+Cost: 1.560 $
 
 API name: m3.xlarge
+4 Rays
 Running time: 02:31:34
 Pricing: 0.580 $ / h
 Cost: 1.730 $
 
 API name: cc2.8xlarge
+32 Rays
 Running time: 00:54:06
 Pricing: 2.400 / h 
 Cost: 2.400 $
-
 
 Conclusions:
 
@@ -46,3 +47,5 @@ problem size is not very large.
 
 4. Amazon EC2 is really affordable for de novo assemblies of bacterial genomes.
 
+
+http://github.com/sebhtml/Ray-in-Amazon-EC2-CLOUD
