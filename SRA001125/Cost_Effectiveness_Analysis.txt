@@ -1,4 +1,4 @@
-Cost Effectiveness Analysis (CEA)
+Cost Effectiveness Analysis (CEA) of running Ray on Amazon EC2
 Sébastien Boisvert
 2012-11-05
 
@@ -7,6 +7,16 @@ URL: http://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=SRA001125
 DNA reads: 34911784 (2 * 17455892)
 Read length (nt): 36
 Technology: Illumina Genome Analyzer
+
+Why use Ray?
+
+1. It gives correct (excellent) results.
+2. It's 0 $.
+3. It's free software (freedom).
+4. It runs on all the cores you give it.
+5. It scales.
+6. It's "cloud-ready".
+
 
 API name: m1.large
 Running time: 
@@ -23,4 +33,16 @@ Running time: 00:54:06
 Pricing: 2.400 / h 
 Cost: 2.400 $
 
+
+Conclusions:
+
+1. You get your results faster if you pay more.
+
+2. For cc2.8xlarge, 33% (00:19:40) of the time was loading sequences from EBS.
+That's a lot !
+
+3. The scalability on this problem is not that good because the
+problem size is not very large.
+
+4. Amazon EC2 is really affordable for de novo assemblies of bacterial genomes.
 
