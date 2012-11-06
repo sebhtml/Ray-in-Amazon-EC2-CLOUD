@@ -1,0 +1,26 @@
+Cost Effectiveness Analysis (CEA)
+Sébastien Boisvert
+2012-11-05
+
+Sample: SRA001125
+URL: http://trace.ddbj.nig.ac.jp/DRASearch/submission?acc=SRA001125
+DNA reads: 34911784 (2 * 17455892)
+Read length (nt): 36
+Technology: Illumina Genome Analyzer
+
+API name: m1.large
+Running time: 
+Pricing: 0.260 $ / h
+Cost: 
+
+API name: m3.xlarge
+Running time: 02:31:34
+Pricing: 0.580 $ / h
+Cost: 1.730 $
+
+API name: cc2.8xlarge
+Running time: 00:54:06
+Pricing: 2.400 / h 
+Cost: 2.400 $
+
+

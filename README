@@ -1,4 +1,5 @@
-Disclaimer: I did these tests on my own, without any financial help from Amazon Web Services LLC
+Disclaimer: I did these tests on my own, without any financial 
+help from Amazon Web Services LLC.
 
 Console: https://console.aws.amazon.com/ec2/home?region=us-east-1#s=Instances
 
@@ -9,7 +10,12 @@ EC2 instance types: http://aws.amazon.com/ec2/instance-types/
 Tests here were done on on-demand instances.
 Costs are lower for reserved instances.
 
-All these tests can be easily automated with:
+Tested samples:
+
+- SRA001125
+- 
+
+All these tests could be easily automated with:
 
 	sudo yum install -y ec2-api-tools.noarch
 
