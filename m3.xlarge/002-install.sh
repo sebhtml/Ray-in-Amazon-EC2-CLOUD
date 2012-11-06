@@ -1,3 +1,4 @@
+sudo apt-get update
 sudo apt-get install -y \
 openmpi-bin libopenmpi-dev make g++ zlib1g-dev libbz2-dev
 

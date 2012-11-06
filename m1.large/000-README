@@ -1,0 +1,36 @@
+AMI: ubuntu/images/ebs/ubuntu-precise-12.04-amd64-server-20121001 (ami-3d4ff254)
+Ubuntu Server 12.04.1 LTS
+
+M1 Large Instance
+
+7.5 GiB memory
+4 EC2 Compute Units (2 virtual cores with 2 EC2 Compute Units each)
+850 GB instance storage
+64-bit platform
+I/O Performance: High
+EBS-Optimized Available: 500 Mbps
+API name: m1.large
+
+Linux/UNIX Usage $0.260 per Hour (US East (N. Virginia))
+
+ssh -i GoldThor.pem root@ec2-23-21-11-197.compute-1.amazonaws.com 
+
+ubuntu@domU-12-31-39-09-FA-52:~$ uname -a
+Linux domU-12-31-39-09-FA-52 3.2.0-31-virtual #50-Ubuntu SMP Fri Sep 7 16:36:36 UTC 2012 x86_64 x86_64 x86_64 GNU/Linux
+
+ubuntu@domU-12-31-39-09-FA-52:~$ head /proc/meminfo 
+MemTotal:        7629500 kB
+MemFree:         7307468 kB
+Buffers:            8108 kB
+Cached:           186904 kB
+SwapCached:            0 kB
+Active:            39108 kB
+Inactive:         170196 kB
+Active(anon):      14416 kB
+Inactive(anon):       48 kB
+Active(file):      24692 kB
+
+ubuntu@domU-12-31-39-09-FA-52:~$ grep "model name" /proc/cpuinfo 
+model name	: Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz
+model name	: Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz
+

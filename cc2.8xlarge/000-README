@@ -2,7 +2,6 @@ AMI: amzn-ami-hvm-2012.09.0.x86_64-ebs (ami-08249861)
 Cluster Compute Amazon Linux AMI 2012.09
 
 Cluster Compute Eight Extra Large Instance
-Linux/UNIX Usage $2.400 per Hour (US East (N. Virginia))
 
 60.5 GiB of memory
 88 EC2 Compute Units (2 x Intel Xeon E5-2670, eight-core "Sandy Bridge" architecture)
@@ -11,6 +10,8 @@ Linux/UNIX Usage $2.400 per Hour (US East (N. Virginia))
 I/O Performance: Very High (10 Gigabit Ethernet)
 EBS-Optimized Available: No*
 API name: cc2.8xlarge
+
+Linux/UNIX Usage $2.400 per Hour (US East (N. Virginia))
 
 ssh -i GoldThor.pem ec2-user@ec2-174-129-64-88.compute-1.amazonaws.com 
 

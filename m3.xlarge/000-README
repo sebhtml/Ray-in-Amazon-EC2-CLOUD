@@ -2,7 +2,6 @@ AMI: ubuntu/images/ebs/ubuntu-precise-12.04-amd64-server-20121001 (ami-3d4ff254)
 Ubuntu Server 12.04.1 LTS
 
 M3 Extra Large Instance
-Linux/UNIX Usage $0.580 per Hour (US East (N. Virginia))
 
 15 GiB memory
 13 EC2 Compute Units (4 virtual cores with 3.25 EC2 Compute Units each)
@@ -11,6 +10,8 @@ EBS storage only
 I/O Performance: Moderate
 EBS-Optimized Available: No
 API name: m3.xlarge
+
+Linux/UNIX Usage $0.580 per Hour (US East (N. Virginia))
 
 ssh -i GoldThor.pem ubuntu@ec2-184-73-20-211.compute-1.amazonaws.com 
 
