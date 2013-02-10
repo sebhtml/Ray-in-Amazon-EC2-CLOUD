@@ -1,1 +1,4 @@
 latency tests on cc2.8xlarge spot instances
+
+CC2 spot instances are not getting assigned to a placement group. 
+https://forums.aws.amazon.com/thread.jspa?threadID=98366
