@@ -1,0 +1,39 @@
+INSTANCE	i-87a385f7	ami-08249861	ec2-54-235-234-68.compute-1.amazonaws.com	ip-10-58-91-103.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	54.235.234.68	10.58.91.103			ebs	spot	sir-28e26e11			hvm	xen	474bed44-adc0-46df-95b4-48b88f6dfda2	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-a31283d2	2013-02-10T00:57:33.000Z	true		
+TAG	instance	i-87a385f7	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-04506b7f	584851907886	default
+INSTANCE	i-85a385f5	ami-08249861	ec2-107-22-54-169.compute-1.amazonaws.com	ip-10-58-173-137.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	107.22.54.169	10.58.173.137			ebs	spot	sir-29bb7611			hvm	xen	6e3f6557-20b5-4dfd-9e0a-0caa9868c5b2	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-aa1283db	2013-02-10T00:57:35.000Z	true		
+TAG	instance	i-85a385f5	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-fa506b81	584851907886	default
+INSTANCE	i-89a385f9	ami-08249861	ec2-54-242-68-78.compute-1.amazonaws.com	ip-10-58-115-11.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	54.242.68.78	10.58.115.11			ebs	spot	sir-fb973811			hvm	xen	ad0078e6-1b1a-4ede-abf4-ebcb0d47bbc8	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-af1283de	2013-02-10T00:57:34.000Z	true		
+TAG	instance	i-89a385f9	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-f8506b83	584851907886	default
+INSTANCE	i-8ba385fb	ami-08249861	ec2-54-234-194-188.compute-1.amazonaws.com	ip-10-58-178-165.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	54.234.194.188	10.58.178.165			ebs	spot	sir-4c01e811			hvm	xen	61112bd4-b2c4-449a-9dec-7e207061f2be	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-a91283d8	2013-02-10T00:57:33.000Z	true		
+TAG	instance	i-8ba385fb	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-fe506b85	584851907886	default
+INSTANCE	i-8da385fd	ami-08249861	ec2-107-22-11-198.compute-1.amazonaws.com	ip-10-58-59-8.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	107.22.11.198	10.58.59.8			ebs	spot	sir-33fc3211			hvm	xen	374bd9e3-94f0-421b-81d1-65851d4441a4	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-be1283cf	2013-02-10T00:57:33.000Z	true		
+TAG	instance	i-8da385fd	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-fc506b87	584851907886	default
+INSTANCE	i-71a08601	ami-08249861	ec2-23-23-17-190.compute-1.amazonaws.com	ip-10-58-138-149.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	23.23.17.190	10.58.138.149			ebs	spot	sir-39caba11			hvm	xen	74167d62-4a19-4b12-bdb9-a2170cf0969d	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-a41283d5	2013-02-10T00:57:33.000Z	true		
+TAG	instance	i-71a08601	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-f2506b89	584851907886	default
+INSTANCE	i-8fa385ff	ami-08249861	ec2-107-22-12-203.compute-1.amazonaws.com	ip-10-58-45-21.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	107.22.12.203	10.58.45.21			ebs	spot	sir-3ee27011			hvm	xen	2d879480-5965-4bf8-aabf-87321229e235	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-bd1283cc	2013-02-10T00:57:32.000Z	true		
+TAG	instance	i-8fa385ff	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-f0506b8b	584851907886	default
+INSTANCE	i-73a08603	ami-08249861	ec2-184-72-191-235.compute-1.amazonaws.com	ip-10-58-166-245.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:30+0000	us-east-1c				monitoring-disabled	184.72.191.235	10.58.166.245			ebs	spot	sir-0c9e0811			hvm	xen	44825a11-cb35-4ce5-b7ae-4c83f3f4525a	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-901283e1	2013-02-10T00:57:35.000Z	true		
+TAG	instance	i-73a08603	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-f6506b8d	584851907886	default
+INSTANCE	i-77a08607	ami-08249861	ec2-54-234-64-233.compute-1.amazonaws.com	ip-10-58-21-80.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:31+0000	us-east-1c				monitoring-disabled	54.234.64.233	10.58.21.80			ebs	spot	sir-0b9b8e11			hvm	xen	373be4a1-4808-42fd-bcec-a45c4ac1ae6a	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-951283e4	2013-02-10T00:57:35.000Z	true		
+TAG	instance	i-77a08607	Project	ray-in-cloud-cc2.8xlarge
+RESERVATION	r-f4506b8f	584851907886	default
+INSTANCE	i-75a08605	ami-08249861	ec2-54-242-175-246.compute-1.amazonaws.com	ip-10-58-58-169.ec2.internal	running	GoldThor	0		cc2.8xlarge	2013-02-10T00:57:31+0000	us-east-1c				monitoring-disabled	54.242.175.246	10.58.58.169			ebs	spot	sir-9082d211			hvm	xen	716e9838-3dcd-4828-9823-b7ba26a37db9	sg-6aa44c02	default	false	
+BLOCKDEVICE	/dev/sda1	vol-9b1283ea	2013-02-10T00:57:35.000Z	true		
+TAG	instance	i-75a08605	Project	ray-in-cloud-cc2.8xlarge

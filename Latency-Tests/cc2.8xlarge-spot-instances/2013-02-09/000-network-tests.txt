@@ -1,0 +1,20 @@
+Hi Nick Loman,
+
+Can you run these 3 tests and tweet the average and standard deviation reported in NetworkTest on Twitter ?
+
+
+
+# Test with no virtual network
+
+mpiexec -n 64 Ray -test-network-only -o test-default
+
+
+# Test with a virtual torus network
+
+mpiexec -n 64 Ray -test-network-only -o test-torus-64 -route-messages -connection-type torus -routing-graph-degree 4
+
+
+# Test with a virtual polytope network
+
+mpiexec -n 64 Ray -test-network-only -o test-polytope-64 -route-messages -connection-type polytope -routing-graph-degree 14
+

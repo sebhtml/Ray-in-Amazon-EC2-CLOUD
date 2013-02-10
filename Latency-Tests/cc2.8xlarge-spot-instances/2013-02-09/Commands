@@ -1,0 +1,15 @@
+vim /etc/exports
+
+/etc/init.d/nfs start
+
+exportfs -r
+
+for i in $(cat instances ); do ssh -t $i "echo load_openmpi >> .bashrc"; done
+
+for i  in $(cat instances ); do ssh -t $i sudo mkdir /mnt/nfs; done
+
+for i in $(cat instances ); do ssh -t $i sudo /etc/init.d/rpcbind start; done
+
+for i in $(cat instances ); do ssh -t $i sudo mount -t nfs ip-10-58-91-103.ec2.internal:/nfs /mnt/nfs; done
+
+

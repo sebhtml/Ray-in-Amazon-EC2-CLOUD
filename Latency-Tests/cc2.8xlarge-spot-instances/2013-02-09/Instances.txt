@@ -1,0 +1,31 @@
+Instances:
+
+i-f8de5a88
+i-e2e26692
+i-87a385f7
+i-85a385f5
+i-89a385f9
+i-8ba385fb
+i-8da385fd
+i-71a08601
+i-8fa385ff
+i-73a08603
+i-77a08607
+i-75a08605
+
+Private DNS names:
+
+ip-10-58-91-103.ec2.internal
+ip-10-58-173-137.ec2.internal
+ip-10-58-115-11.ec2.internal
+ip-10-58-178-165.ec2.internal
+ip-10-58-59-8.ec2.internal
+ip-10-58-138-149.ec2.internal
+ip-10-58-45-21.ec2.internal
+ip-10-58-166-245.ec2.internal
+ip-10-58-21-80.ec2.internal
+ip-10-58-58-169.ec2.internal
+
+I used a placement group called Cluster-X in the spot requests.
+
+But ec2-describe-instances and the Amazon EC2 console does not show any Placement Group for these instances.
