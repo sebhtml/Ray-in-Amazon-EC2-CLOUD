@@ -1,0 +1,14 @@
+# average and mode round trip latency in microseconds (10^-6 seconds) when requesting a reply for a message of 4000 bytes
+# MessagePassingInterfaceRank	Name	ModeLatencyInMicroseconds	AverageLatencyInMicroseconds	NumberOfExchanges
+# AverageForAllRanks: 213.8
+# StandardDeviation: 4.75395
+0	ip-10-58-70-94	6	206	1000
+1	ip-10-58-66-126	6	205	1000
+2	ip-10-58-81-111	6	212	1000
+3	ip-10-58-69-13	6	210	1000
+4	ip-10-58-125-50	6	214	1000
+5	ip-10-58-99-6	6	217	1000
+6	ip-10-58-185-57	6	218	1000
+7	ip-10-58-162-150	7	216	1000
+8	ip-10-58-82-115	6	219	1000
+9	ip-10-58-175-61	6	221	1000

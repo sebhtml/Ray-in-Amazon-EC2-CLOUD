@@ -1,0 +1,35 @@
+Name: Partitioner
+Description: A plugin that counts sequences in files in parallel
+Authors: Sébastien Boisvert
+License: GNU General Public License version 3
+
+Allocated handles
+
+-> Allocated MasterMode handles: 1
+   -> with a registered symbol: 1
+   -> with a registered MasterModeHandler: 1
+   -> with a registered MasterMode-to-MessageTag switch: 0
+   -> with a registered next MasterMode: 1
+   -> registered as first MasterMode: 0
+
+-> Allocated SlaveMode handles: 1
+   -> with a registered symbol: 1
+   -> with a registered SlaveModeHandler: 1
+
+-> Allocated MessageTag handles: 6
+   -> with a registered symbol: 6
+   -> with a registered MessageTagHandler: 0
+   -> with a registered MessageTag-to-SlaveMode switch: 1
+   -> with a registered reply MessageTag: 0
+   -> with a registered size: 0
+
+-> Allocated object handles: 0
+   -> with a registered symbol: 0
+
+Resolved symbols
+
+-> Resolved MasterMode symbols: 2
+-> Resolved SlaveMode symbols: 2
+-> Resolved MessageTag symbols: 6
+-> Resolved object symbols: 0
+

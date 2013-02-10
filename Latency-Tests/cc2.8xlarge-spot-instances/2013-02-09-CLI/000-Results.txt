@@ -1,0 +1,16 @@
+./t-torus-324/NetworkTest.txt
+# AverageForAllRanks: 1333.29
+./t-torus-289/NetworkTest.txt
+# AverageForAllRanks: 1700.8
+./t-default-320/NetworkTest.txt
+# AverageForAllRanks: 934.544
+./t-default-80/NetworkTest.txt
+# AverageForAllRanks: 592.25
+./t-mini-ranks-160/NetworkTest.txt
+# AverageForAllRanks: 2114.27
+./t-polytope-324/NetworkTest.txt
+# AverageForAllRanks: 1641.14
+./t-default-160/NetworkTest.txt
+# AverageForAllRanks: 2096.02
+./t-default-10/NetworkTest.txt
+# AverageForAllRanks: 213.8

@@ -1,0 +1,13 @@
+
+***
+Step: Network testing
+Date: Sun Feb 10 03:28:55 2013
+Elapsed time: 1 seconds
+Since beginning: 1 seconds
+***
+
+
+Elapsed time for each step, Sun Feb 10 03:28:55 2013
+
+ Network testing: 1 seconds
+ Total: 1 seconds

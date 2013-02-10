@@ -1,0 +1,4 @@
+mpiexec -n 10 Ray \
+ -test-network-only \
+ -o \
+ t-default-10

@@ -1,0 +1,35 @@
+Name: GenomeNeighbourhood
+Description: Get a sophisticated bird's-eye view of a sample's DNA
+Authors: Sébastien Boisvert
+License: GNU General Public License version 3 (GPLv3)
+
+Allocated handles
+
+-> Allocated MasterMode handles: 1
+   -> with a registered symbol: 1
+   -> with a registered MasterModeHandler: 1
+   -> with a registered MasterMode-to-MessageTag switch: 1
+   -> with a registered next MasterMode: 1
+   -> registered as first MasterMode: 0
+
+-> Allocated SlaveMode handles: 1
+   -> with a registered symbol: 1
+   -> with a registered SlaveModeHandler: 1
+
+-> Allocated MessageTag handles: 3
+   -> with a registered symbol: 3
+   -> with a registered MessageTagHandler: 1
+   -> with a registered MessageTag-to-SlaveMode switch: 1
+   -> with a registered reply MessageTag: 0
+   -> with a registered size: 1
+
+-> Allocated object handles: 0
+   -> with a registered symbol: 0
+
+Resolved symbols
+
+-> Resolved MasterMode symbols: 2
+-> Resolved SlaveMode symbols: 1
+-> Resolved MessageTag symbols: 4
+-> Resolved object symbols: 5
+

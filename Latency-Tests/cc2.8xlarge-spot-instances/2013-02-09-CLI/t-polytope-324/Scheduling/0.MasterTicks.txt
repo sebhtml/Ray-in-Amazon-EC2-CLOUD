@@ -1,0 +1,5 @@
+Index	Master mode	Start time in milliseconds	End time in milliseconds	Duration in milliseconds	Number of ticks	Average granularity in nanoseconds
+0	RAY_MASTER_MODE_LOAD_CONFIG	0	15	15	1	15000000
+1	RAY_MASTER_MODE_TEST_NETWORK	15	24512	24497	227696	107586
+2	RAY_MASTER_MODE_KILL_ALL_MPI_RANKS	24512	25084	572	11079	51629
+3	RAY_MASTER_MODE_DO_NOTHING	25084	40596	15512	303714	51074

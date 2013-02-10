@@ -1,0 +1,23 @@
+Type: polytope
+
+NumberOfVertices: 324
+NumberOfArcs: 11016
+NumberOfArcsInCompleteGraph: 104652
+
+NumberOfOutcomingArcsPerVertex
+   Frequencies:
+        34    324    100%
+        Total    324    100.00%
+   Average: 34
+   StandardDeviation: 0
+
+NumberOfRelayEventsPerVertex
+   Average: 289
+   StandardDeviation: 163.347
+
+RouteLength
+   Frequencies:
+        0    324    0.308642%
+        1    11016    10.4938%
+        2    93636    89.1975%
+        Total    104976    100.00%

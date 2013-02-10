@@ -1,0 +1,9 @@
+mpiexec -n 324 Ray \
+ -test-network-only \
+ -o \
+ t-polytope-324 \
+ -route-messages \
+ -connection-type \
+ polytope \
+ -routing-graph-degree \
+ 34

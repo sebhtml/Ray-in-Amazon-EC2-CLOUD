@@ -1,0 +1,1 @@
+Routes are dynamically determined with real-time load-balancing.

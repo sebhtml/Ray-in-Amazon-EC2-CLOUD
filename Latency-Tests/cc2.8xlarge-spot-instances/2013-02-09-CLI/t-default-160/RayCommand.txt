@@ -1,0 +1,4 @@
+mpiexec -n 160 Ray \
+ -test-network-only \
+ -o \
+ t-default-160

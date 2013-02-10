@@ -1,0 +1,35 @@
+Name: MachineHelper
+Description: Legacy plugin for some master modes
+Authors: Sébastien Boisvert
+License: GNU General Public License version 3
+
+Allocated handles
+
+-> Allocated MasterMode handles: 23
+   -> with a registered symbol: 23
+   -> with a registered MasterModeHandler: 23
+   -> with a registered MasterMode-to-MessageTag switch: 0
+   -> with a registered next MasterMode: 19
+   -> registered as first MasterMode: 1
+
+-> Allocated SlaveMode handles: 4
+   -> with a registered symbol: 4
+   -> with a registered SlaveModeHandler: 4
+
+-> Allocated MessageTag handles: 4
+   -> with a registered symbol: 4
+   -> with a registered MessageTagHandler: 1
+   -> with a registered MessageTag-to-SlaveMode switch: 1
+   -> with a registered reply MessageTag: 0
+   -> with a registered size: 0
+
+-> Allocated object handles: 3
+   -> with a registered symbol: 3
+
+Resolved symbols
+
+-> Resolved MasterMode symbols: 34
+-> Resolved SlaveMode symbols: 26
+-> Resolved MessageTag symbols: 83
+-> Resolved object symbols: 0
+

@@ -1,0 +1,35 @@
+Name: Searcher
+Description: Add colors in the graph and search things
+Authors: Sébastien Boisvert
+License: GNU General Public License version 3
+
+Allocated handles
+
+-> Allocated MasterMode handles: 5
+   -> with a registered symbol: 5
+   -> with a registered MasterModeHandler: 5
+   -> with a registered MasterMode-to-MessageTag switch: 5
+   -> with a registered next MasterMode: 5
+   -> registered as first MasterMode: 0
+
+-> Allocated SlaveMode handles: 5
+   -> with a registered symbol: 5
+   -> with a registered SlaveModeHandler: 5
+
+-> Allocated MessageTag handles: 34
+   -> with a registered symbol: 34
+   -> with a registered MessageTagHandler: 8
+   -> with a registered MessageTag-to-SlaveMode switch: 5
+   -> with a registered reply MessageTag: 0
+   -> with a registered size: 4
+
+-> Allocated object handles: 6
+   -> with a registered symbol: 6
+
+Resolved symbols
+
+-> Resolved MasterMode symbols: 7
+-> Resolved SlaveMode symbols: 5
+-> Resolved MessageTag symbols: 29
+-> Resolved object symbols: 0
+

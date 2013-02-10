@@ -1,0 +1,37 @@
+Type: torus
+
+NumberOfVertices: 289
+NumberOfArcs: 1156
+NumberOfArcsInCompleteGraph: 83232
+
+NumberOfOutcomingArcsPerVertex
+   Frequencies:
+        4    289    100%
+        Total    289    100.00%
+   Average: 4
+   StandardDeviation: 0
+
+NumberOfRelayEventsPerVertex
+   Average: 2160
+   StandardDeviation: 419.177
+
+RouteLength
+   Frequencies:
+        0    289    0.346021%
+        1    1156    1.38408%
+        2    2312    2.76817%
+        3    3468    4.15225%
+        4    4624    5.53633%
+        5    5780    6.92042%
+        6    6936    8.3045%
+        7    8092    9.68858%
+        8    9248    11.0727%
+        9    9248    11.0727%
+        10    8092    9.68858%
+        11    6936    8.3045%
+        12    5780    6.92042%
+        13    4624    5.53633%
+        14    3468    4.15225%
+        15    2312    2.76817%
+        16    1156    1.38408%
+        Total    83521    100.00%

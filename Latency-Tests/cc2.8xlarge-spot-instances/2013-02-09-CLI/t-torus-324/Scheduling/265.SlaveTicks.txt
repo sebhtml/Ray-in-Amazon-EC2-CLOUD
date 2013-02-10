@@ -1,0 +1,6 @@
+Index	Slave mode	Start time in milliseconds	End time in milliseconds	Duration in milliseconds	Number of ticks	Average granularity in nanoseconds	Received messages	Average number of received messages per second	Sent messages	Average number of sent messages per second
+0	RAY_SLAVE_MODE_DO_NOTHING	0	201	201	3567	56349	41	203	39	194
+1	RAY_SLAVE_MODE_TEST_NETWORK	201	104756	104555	1815339	57595	18043	172	18043	172
+2	RAY_SLAVE_MODE_DO_NOTHING	104756	105369	613	11365	53937	27	44	26	42
+3	RAY_SLAVE_MODE_DIE	105369	105369	0	1	0	0	0	1	1
+4	RAY_SLAVE_MODE_DO_NOTHING	105369	120876	15507	284109	54581	18	1	18	1

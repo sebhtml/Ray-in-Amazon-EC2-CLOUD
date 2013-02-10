@@ -1,0 +1,2 @@
+Index	Master mode	Start time in milliseconds	End time in milliseconds	Duration in milliseconds	Number of ticks	Average granularity in nanoseconds
+0	RAY_MASTER_MODE_DO_NOTHING	0	123983	123983	2767182	44804

@@ -1,0 +1,35 @@
+Name: Mock
+Description: This plugin does nothing at all.
+Authors: Sébastien Boisvert
+License: GNU General Public License version 3
+
+Allocated handles
+
+-> Allocated MasterMode handles: 0
+   -> with a registered symbol: 0
+   -> with a registered MasterModeHandler: 0
+   -> with a registered MasterMode-to-MessageTag switch: 0
+   -> with a registered next MasterMode: 0
+   -> registered as first MasterMode: 0
+
+-> Allocated SlaveMode handles: 0
+   -> with a registered symbol: 0
+   -> with a registered SlaveModeHandler: 0
+
+-> Allocated MessageTag handles: 0
+   -> with a registered symbol: 0
+   -> with a registered MessageTagHandler: 0
+   -> with a registered MessageTag-to-SlaveMode switch: 0
+   -> with a registered reply MessageTag: 0
+   -> with a registered size: 0
+
+-> Allocated object handles: 0
+   -> with a registered symbol: 0
+
+Resolved symbols
+
+-> Resolved MasterMode symbols: 0
+-> Resolved SlaveMode symbols: 0
+-> Resolved MessageTag symbols: 0
+-> Resolved object symbols: 0
+
